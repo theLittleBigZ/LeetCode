@@ -6,3 +6,4 @@ Each question will have it's own branch, with the question and some examples
 
 ### Problems Done:
   - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum)
+  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element)
