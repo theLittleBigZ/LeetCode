@@ -9,6 +9,7 @@ Each question will have it's own branch, with the question and some examples
   - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
   - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
   - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy] [^2]
+  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [Medium]
 
 
 [^1]: Used solution from user DBabichev
