@@ -11,5 +11,5 @@ Each question will have it's own branch, with the question and some examples
   - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy] [^2]
 
 
-[^1]: Used solution from
+[^1]: Used solution from user DBabichev
 [^2]: didn't do the challenge (My solution wasn't purely math)
