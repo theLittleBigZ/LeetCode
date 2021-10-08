@@ -8,3 +8,4 @@ Each question will have it's own branch, with the question and some examples
   - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
   - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
   - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium]
+  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy]
