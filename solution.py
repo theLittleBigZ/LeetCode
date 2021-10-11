@@ -1,6 +1,6 @@
 class Solution:
-    def buildArray(self, nums: List[int]) -> List[int]:
-        ret = []
-        for num in nums:
-            ret.append(nums[num])
-        return ret
+    def getConcatenation(self, nums: List[int]) -> List[int]:
+        l = len(nums)
+        for n in range(l):
+            nums.append(nums[n])
+        return nums
