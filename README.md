@@ -16,6 +16,7 @@ Each question will have it's own branch, with the question and some examples
   - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
   - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
   - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
+  - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
 
 
 [^1]: Used solution from user DBabichev
