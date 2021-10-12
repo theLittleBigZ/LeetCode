@@ -14,6 +14,7 @@ Each question will have it's own branch, with the question and some examples
   - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
   - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
   - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
+  - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
 
 
 [^1]: Used solution from user DBabichev
