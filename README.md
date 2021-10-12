@@ -19,6 +19,7 @@ The length of a path between two nodes is represented by the number of edges bet
 ## Example 2:
 
 `Input: root = [1,2]`
+
 `Output: 1`
  
 
