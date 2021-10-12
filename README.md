@@ -1,19 +1,46 @@
-# LeetCode
-## My Solutions for LeetCode problems
+# Guess Number Higher or Lower
+We are playing the Guess Game. The game is as follows:
+I pick a number from 1 to n. You have to guess which number I picked.
+Every time you guess wrong, I will tell you whether the number I picked is higher or lower than your guess.
+You call a pre-defined API int guess(int num), which returns 3 possible results:
+- -1: The number I picked is lower than your guess (i.e. pick < num).
+- 1: The number I picked is higher than your guess (i.e. pick > num).
+- 0: The number I picked is equal to your guess (i.e. pick == num).
+Return the number that I picked.
 
-  This repo will contain my solutions for each of the LeetCode problems I attempt, with each attempt with stats as well.
-Each question will have it's own branch, with the question and some examples
+ 
 
-### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
-  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy] [^2]
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
-  - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
-  - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
-  - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
+## Example 1:
+
+`Input: n = 10, pick = 6`
+
+`Output: 6`
 
 
-[^1]: Used solution from user DBabichev
-[^2]: Didn't do the challenge (My solution wasn't purely math)
+
+## Example 2:
+
+`Input: n = 1, pick = 1`
+
+`Output: 1`
+
+
+
+## Example 3:
+
+`Input: n = 2, pick = 1`
+
+`Output: 1`
+
+
+
+## Example 4:
+
+`Input: n = 2, pick = 2`
+
+`Output: 2`
+ 
+
+## Constraints:
+- 1 <= n <= 231 - 1
+- 1 <= pick <= n
