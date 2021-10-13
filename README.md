@@ -1,23 +1,27 @@
-# LeetCode
-## My Solutions for LeetCode problems
-
-  This repo will contain my solutions for each of the LeetCode problems I attempt, with each attempt with stats as well.
-Each question will have it's own branch, with the question and some examples
-
-### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
-  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy] [^2]
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
-  - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
-  - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
-  - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
-  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
-  - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
-  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
-  - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
+# Construct Binary Search Tree from Preorder Traversal
+Given an array of integers preorder, which represents the preorder traversal of a BST (i.e., binary search tree), construct the tree and return its root.
+It is guaranteed that there is always possible to find a binary search tree with the given requirements for the given test cases.
+A binary search tree is a binary tree where for every node, any descendant of Node.left has a value strictly less than Node.val, and any descendant of Node.right has a value strictly greater than Node.val.
+A preorder traversal of a binary tree displays the value of the node first, then traverses Node.left, then traverses Node.right.
 
 
-[^1]: Used solution from user DBabichev
-[^2]: Didn't do the challenge (My solution wasn't purely math)
+
+## Example 1:
+
+`Input: preorder = [8,5,1,7,10,12]`
+
+`Output: [8,5,10,1,7,null,12]`
+
+
+
+## Example 2:
+
+`Input: preorder = [1,3]`
+
+`Output: [1,null,3]`
+ 
+
+## Constraints:
+- 1 <= preorder.length <= 100
+- 1 <= preorder[i] <= 10^8
+- All the values of preorder are unique.
