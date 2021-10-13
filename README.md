@@ -1,24 +1,68 @@
-# LeetCode
-## My Solutions for LeetCode problems
+# Final Value of Variable After Performing Operations
+There is a programming language with only four operations and one variable X:
+- ++X and X++ increments the value of the variable X by 1.
+- --X and X-- decrements the value of the variable X by 1.
+Initially, the value of X is 0.
+Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations.
 
-  This repo will contain my solutions for each of the LeetCode problems I attempt, with each attempt with stats as well.
-Each question will have it's own branch, with the question and some examples
+ 
 
-### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
-  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy] [^2]
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
-  - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
-  - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
-  - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
-  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
-  - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
-  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
-  - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
-  - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/Construct-Binary-Search-Tree-from-Preorder-Traversal) [medium]
+## Example 1:
+
+`Input: operations = ["--X","X++","X++"]`
+
+`Output: 1`
+
+`Explanation: The operations are performed as follows:`
+
+`Initially, X = 0.`
+
+`--X: X is decremented by 1, X =  0 - 1 = -1.`
+
+`X++: X is incremented by 1, X = -1 + 1 =  0.`
+
+`X++: X is incremented by 1, X =  0 + 1 =  1.`
 
 
-[^1]: Used solution from user DBabichev
-[^2]: Didn't do the challenge (My solution wasn't purely math)
+
+## Example 2:
+
+`Input: operations = ["++X","++X","X++"]`
+
+`Output: 3`
+
+`Explanation: The operations are performed as follows:`
+
+`Initially, X = 0.`
+
+`++X: X is incremented by 1, X = 0 + 1 = 1.`
+
+`++X: X is incremented by 1, X = 1 + 1 = 2.`
+
+`X++: X is incremented by 1, X = 2 + 1 = 3.`
+
+
+
+## Example 3:
+
+`Input: operations = ["X++","++X","--X","X--"]`
+
+`Output: 0`
+
+`Explanation: The operations are performed as follows:`
+
+`Initially, X = 0.`
+
+`X++: X is incremented by 1, X = 0 + 1 = 1.`
+
+`++X: X is incremented by 1, X = 1 + 1 = 2.`
+
+`--X: X is decremented by 1, X = 2 - 1 = 1.`
+
+`X--: X is decremented by 1, X = 1 - 1 = 0.`
+ 
+
+
+## Constraints:
+- 1 <= operations.length <= 100
+- operations[i] will be either "++X", "X++", "--X", or "X--".
