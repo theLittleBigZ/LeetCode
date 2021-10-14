@@ -21,7 +21,9 @@ Each question will have it's own branch, with the question and some examples
   - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/Defanging-an-IP-Address) [easy]
   - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/Final-Value-of-Variable-After-Performing-Operations) [easy]
   - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
+  - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^3]
 
 
 [^1]: Used solution from user DBabichev
 [^2]: Didn't do the challenge (My solution wasn't purely math)
+[^3]: Used solution from Peter de Rivaz
