@@ -1,29 +1,53 @@
-# LeetCode
-## My Solutions for LeetCode problems
-
-  This repo will contain my solutions for each of the LeetCode problems I attempt, with each attempt with stats as well.
-Each question will have it's own branch, with the question and some examples
-
-### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
-  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy] [^2]
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
-  - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
-  - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
-  - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
-  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
-  - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
-  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
-  - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
-  - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/Construct-Binary-Search-Tree-from-Preorder-Traversal) [medium]
-  - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/Defanging-an-IP-Address) [easy]
-  - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/Final-Value-of-Variable-After-Performing-Operations) [easy]
-  - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
-  - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^3]
+# Richest Customer Wealth
+You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the i^th customer has in the j^th bank. Return the wealth that the richest customer has.
+A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth.
 
 
-[^1]: Used solution from user DBabichev
-[^2]: Didn't do the challenge (My solution wasn't purely math)
-[^3]: Used solution from Peter de Rivaz
+
+## Example 1:
+
+`Input: accounts = [[1,2,3],[3,2,1]]`
+
+`Output: 6`
+
+`Explanation:`
+
+`1st customer has wealth = 1 + 2 + 3 = 6`
+
+`2nd customer has wealth = 3 + 2 + 1 = 6`
+
+`Both customers are considered the richest with a wealth of 6 each, so return 6.`
+
+
+
+## Example 2:
+
+`Input: accounts = [[1,5],[7,3],[3,5]]`
+
+`Output: 10`
+
+`Explanation:`
+
+`1st customer has wealth = 6`
+
+`2nd customer has wealth = 10`
+
+`3rd customer has wealth = 8`
+
+`The 2nd customer is the richest with a wealth of 10.`
+
+
+
+## Example 3:
+
+`Input: accounts = [[2,8,7],[7,1,3],[1,9,5]]`
+
+`Output: 17`
+
+
+
+## Constraints:
+- m == accounts.length
+- n == accounts[i].length
+- 1 <= m, n <= 50
+- 1 <= accounts[i][j] <= 100
