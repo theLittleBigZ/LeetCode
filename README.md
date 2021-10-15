@@ -23,6 +23,7 @@ Each question will have it's own branch, with the question and some examples
   - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
   - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^3]
   - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) [medium] [^4]
+  - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/Richest-Customer-Wealth) [easy]
 
 
 [^1]: Used solution from user DBabichev
