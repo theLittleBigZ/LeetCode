@@ -24,9 +24,11 @@ Each question will have it's own branch, with the question and some examples
   - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^3]
   - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) [medium] [^4]
   - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/Richest-Customer-Wealth) [easy]
+  - [Cousins in Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Cousins-in-Binary-Tree) [easy] [^5]
 
 
 [^1]: Used solution from user DBabichev
 [^2]: Didn't do the challenge (My solution wasn't purely math)
 [^3]: Used solution from Peter de Rivaz
 [^4]: Used solution from user WookieWarlord
+[^5]: Used solution from user DBabichev
