@@ -1,34 +1,37 @@
-# LeetCode
-## My Solutions for LeetCode problems
+# Next Greater Element I
+The **next greater element** of some element `x` in an array is the **first greater** element that is **to the right** of `x` in the same array.
+You are given two **distinct 0-indexed** integer arrays `nums1` and `nums2`, where `nums1` is a subset of `nums2`.
+For each `0 <= i < nums1.length`, find the index `j` such that `nums1[i] == nums2[j]` and determine the next greater element of `nums2[j]` in `nums2`. If there is no next greater element, then the answer for this query is `-1`.
+Return an array `ans` of length `nums1.length` such that `ans[i]` is the next greater element as described above.
 
-  This repo will contain my solutions for each of the LeetCode problems I attempt, with each attempt with stats as well.
-Each question will have it's own branch, with the question and some examples
+ 
 
-### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
-  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy] [^2]
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
-  - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
-  - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
-  - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
-  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
-  - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
-  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
-  - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
-  - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/Construct-Binary-Search-Tree-from-Preorder-Traversal) [medium]
-  - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/Defanging-an-IP-Address) [easy]
-  - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/Final-Value-of-Variable-After-Performing-Operations) [easy]
-  - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
-  - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^3]
-  - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) [medium] [^4]
-  - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/Richest-Customer-Wealth) [easy]
-  - [Cousins in Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Cousins-in-Binary-Tree) [easy] [^5]
+## Example 1:
+
+`Input: nums1 = [4,1,2], nums2 = [1,3,4,2]`
+
+`Output: [-1,3,-1]`
+
+`Explanation: The next greater element for each value of nums1 is as follows:`
+- 4 is underlined in nums2 = [1,3,4,2]. There is no next greater element, so the answer is -1.
+- 1 is underlined in nums2 = [1,3,4,2]. The next greater element is 3.
+- 2 is underlined in nums2 = [1,3,4,2]. There is no next greater element, so the answer is -1.
 
 
-[^1]: Used solution from user DBabichev
-[^2]: Didn't do the challenge (My solution wasn't purely math)
-[^3]: Used solution from Peter de Rivaz
-[^4]: Used solution from user WookieWarlord
-[^5]: Used solution from user DBabichev
+
+## Example 2:
+
+`Input: nums1 = [2,4], nums2 = [1,2,3,4]`
+
+`Output: [3,-1]`
+
+`Explanation: The next greater element for each value of nums1 is as follows:`
+- 2 is underlined in nums2 = [1,2,3,4]. The next greater element is 3.
+- 4 is underlined in nums2 = [1,2,3,4]. There is no next greater element, so the answer is -1.
+ 
+
+## Constraints:
+- 1 <= nums1.length <= nums2.length <= 1000
+- 0 <= nums1[i], nums2[i] <= 10^4
+- All integers in nums1 and nums2 are **unique**.
+- All the integers of nums1 also appear in nums2.
