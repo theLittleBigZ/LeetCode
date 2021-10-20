@@ -1,8 +1,8 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
         s = s.strip()
-        words = s.split(" ")
-        words = words[::-1]
-        words = list(filter(None, words))
-        words = " ".join(words)
-        return words
+        s = s.split(" ")
+        s = s[::-1]
+        s = list(filter(None, s))
+        s = " ".join(s)
+        return s
