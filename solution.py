@@ -3,10 +3,6 @@ class Solution:
         s = s.strip()
         words = s.split(" ")
         words = words[::-1]
-        ret = ""
-        for x in words:
-            if not (x == " " or x == ""):
-                ret += x
-                ret += " "
-        return ret.strip()
-            
+        words = list(filter(None, words))
+        words = " ".join(words)
+        return words
