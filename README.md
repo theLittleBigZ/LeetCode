@@ -26,7 +26,7 @@ Each question will have it's own branch, with the question and some examples
   - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/Richest-Customer-Wealth) [easy]
   - [Cousins in Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Cousins-in-Binary-Tree) [easy] [^5]
   - [Next Greater Element I](https://github.com/theLittleBigZ/LeetCode/tree/Next-Greater-Element-I) [easy] [^6]
-
+  - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Words-in-a-String) [medium]
 
 [^1]: Used solution from user DBabichev (Attempt 1)
 [^2]: Didn't do the challenge (My solution wasn't purely math)
