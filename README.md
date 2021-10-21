@@ -1,36 +1,47 @@
-# LeetCode
-## My Solutions for LeetCode problems
+# Insert Delete GetRandom O(1)
+Implement the `andomizedSet`class:
+- `RandomizedSet()` Initializes the `RandomizedSet` object.
+- `bool insert(int val)` Inserts an item `val` into the set if not present. Returns `true` if the item was not present, `false` otherwise.
+- `bool remove(int val)` Removes an item `val` from the set if present. Returns `true` if the item was present, `false` otherwise.
+- `int getRandom()` Returns a random element from the current set of elements (it's guaranteed that at least one element exists when this method is called). Each element must have the **same probability** of being returned.
+- 
+You must implement the functions of the class such that each function works in **average** `O(1)` time complexity.
 
-  This repo will contain my solutions for each of the LeetCode problems I attempt, with each attempt with stats as well.
-Each question will have it's own branch, with the question and some examples
 
-### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
-  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy] [^2]
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
-  - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
-  - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
-  - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
-  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
-  - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
-  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
-  - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
-  - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/Construct-Binary-Search-Tree-from-Preorder-Traversal) [medium]
-  - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/Defanging-an-IP-Address) [easy]
-  - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/Final-Value-of-Variable-After-Performing-Operations) [easy]
-  - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
-  - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^3]
-  - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) [medium] [^4]
-  - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/Richest-Customer-Wealth) [easy]
-  - [Cousins in Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Cousins-in-Binary-Tree) [easy] [^5]
-  - [Next Greater Element I](https://github.com/theLittleBigZ/LeetCode/tree/Next-Greater-Element-I) [easy] [^6]
-  - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Words-in-a-String) [medium]
 
-[^1]: Used solution from user DBabichev (Attempt 1)
-[^2]: Didn't do the challenge (My solution wasn't purely math)
-[^3]: Used solution from Peter de Rivaz (Attempt 1)
-[^4]: Used solution from user WookieWarlord (Attempt 1)
-[^5]: Used solution from user DBabichev (Attempt 1) 
-[^6]: Used solution from user yukkk (Attempt 1)
+## Example 1:
+
+### Input
+
+`["RandomizedSet", "insert", "remove", "insert", "getRandom", "remove", "insert", "getRandom"]`
+
+`[[], [1], [2], [2], [], [1], [2], []]`
+
+### Output
+
+`[null, true, false, true, 2, true, false, 2]`
+
+### Explanation
+
+`RandomizedSet randomizedSet = new RandomizedSet();`
+
+`randomizedSet.insert(1); // Inserts 1 to the set. Returns true as 1 was inserted successfully.`
+
+`randomizedSet.remove(2); // Returns false as 2 does not exist in the set.`
+
+`randomizedSet.insert(2); // Inserts 2 to the set, returns true. Set now contains [1,2].`
+
+`randomizedSet.getRandom(); // getRandom() should return either 1 or 2 randomly.`
+
+`randomizedSet.remove(1); // Removes 1 from the set, returns true. Set now contains [2].`
+
+`randomizedSet.insert(2); // 2 was already in the set, so return false.`
+
+`randomizedSet.getRandom(); // Since 2 is the only number in the set, getRandom() will always return 2.`
+
+ 
+
+## Constraints:
+- -2^31 <= val <= 2^31 - 1
+- At most 2 * 10^5 calls will be made to `insert`, `remove`, and `getRandom`.
+- There will be **at least one** element in the data structure when `getRandom` is called.
