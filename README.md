@@ -28,6 +28,7 @@ Each question will have it's own branch, with the question and some examples
   - [Next Greater Element I](https://github.com/theLittleBigZ/LeetCode/tree/Next-Greater-Element-I) [easy] [^6]
   - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Words-in-a-String) [medium]
   - [Insert Delete GetRandom O(1)](https://github.com/theLittleBigZ/LeetCode/tree/Insert-Delete-GetRandom-O(1)) [medium]
+  - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Characters-By-Frequency) [medium]
 
 [^1]: Used solution from user DBabichev (Attempt 1)
 [^2]: Didn't do the challenge (My solution wasn't purely math)
