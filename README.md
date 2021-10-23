@@ -29,6 +29,7 @@ Each question will have it's own branch, with the question and some examples
   - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Words-in-a-String) [medium]
   - [Insert Delete GetRandom O(1)](https://github.com/theLittleBigZ/LeetCode/tree/Insert-Delete-GetRandom-O(1)) [medium]
   - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Characters-By-Frequency) [medium]
+  - [Find Minimum in Rotated Sorted Array II](https://github.com/theLittleBigZ/LeetCode/tree/Find-Minimum-in-Rotated-Sorted-Array-II) [hard] [^7]
 
 [^1]: Used solution from user DBabichev (Attempt 1)
 [^2]: Didn't do the challenge (My solution wasn't purely math)
@@ -36,3 +37,4 @@ Each question will have it's own branch, with the question and some examples
 [^4]: Used solution from user WookieWarlord (Attempt 1)
 [^5]: Used solution from user DBabichev (Attempt 1) 
 [^6]: Used solution from user yukkk (Attempt 1)
+[^7]: Didn't do the challenge (My solution didn't rotate the array)
