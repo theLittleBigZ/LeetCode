@@ -31,6 +31,7 @@ Each question will have it's own branch, with the question and some examples
   - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Characters-By-Frequency) [medium]
   - [Find Minimum in Rotated Sorted Array II](https://github.com/theLittleBigZ/LeetCode/tree/Find-Minimum-in-Rotated-Sorted-Array-II) [hard]
   - [Min Stack](https://github.com/theLittleBigZ/LeetCode/tree/Min-Stack) [easy]
+  - [Invert Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Invert-Binary-Tree) [easy]
 
 [^1]: Used solution from user DBabichev (Attempt 1)
 [^2]: Didn't do the challenge (My solution wasn't purely math)
