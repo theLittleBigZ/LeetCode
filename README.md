@@ -34,6 +34,7 @@ Each question will have it's own branch, with the question and some examples
   - [Invert Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Invert-Binary-Tree) [easy]
   - [Sort Colors](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Colors) [medium]
   - [3Sum](https://github.com/theLittleBigZ/LeetCode/tree/3Sum) [medium] [^7]
+  - [Rotting Oranges](https://github.com/theLittleBigZ/LeetCode/tree/Rotting-Oranges) [medium] [^8]
 
 [^1]: Used solution from user DBabichev (Attempt 1)
 [^2]: Didn't do the challenge (My solution wasn't purely math)
@@ -42,3 +43,4 @@ Each question will have it's own branch, with the question and some examples
 [^5]: Used solution from user DBabichev (Attempt 1) 
 [^6]: Used solution from user yukkk (Attempt 1)
 [^7]: Used solution from user gautamsw5 (Attempt 1)
+[^8]: Used solution from user gautamsw5 (Attempt 1)
