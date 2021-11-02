@@ -45,3 +45,4 @@ Each question will have it's own branch, with the question and some examples
 [^5]: Used solution from user yukkk (Attempt 1) [current]
 [^6]: Used solution from user gautamsw5 (Attempt 1) [current]
 [^7]: Used solution from user jianpingbadao (Attempt 1) [current]
+[^8]: Used solution from user zayne-siew (Attempt 1) [current]
