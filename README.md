@@ -1,46 +1,57 @@
-# LeetCode
-## My Solutions for LeetCode problems
+# Unique Paths III
+You are given an `m` x `n` integer array `grid` where `grid[i][j]` could be:
+- `1` representing the starting square. There is exactly one starting square.
+- `2` representing the ending square. There is exactly one ending square.
+- `0` representing empty squares we can walk over.
+- `-1` representing obstacles that we cannot walk over.
+Return *the number of 4-directional walks from the starting square to the ending square, that walk over every non-obstacle square exactly once.*
 
-  This repo will contain my solutions for each of the LeetCode problems I attempt, with each attempt with stats as well.
-Each question will have it's own branch, with the question and some examples
+ 
 
-### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
-  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy]
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
-  - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
-  - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
-  - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
-  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
-  - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
-  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
-  - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
-  - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/Construct-Binary-Search-Tree-from-Preorder-Traversal) [medium]
-  - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/Defanging-an-IP-Address) [easy]
-  - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/Final-Value-of-Variable-After-Performing-Operations) [easy]
-  - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
-  - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^2]
-  - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) [medium] [^3]
-  - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/Richest-Customer-Wealth) [easy]
-  - [Cousins in Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Cousins-in-Binary-Tree) [easy] [^4]
-  - [Next Greater Element I](https://github.com/theLittleBigZ/LeetCode/tree/Next-Greater-Element-I) [easy] [^5]
-  - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Words-in-a-String) [medium]
-  - [Insert Delete GetRandom O(1)](https://github.com/theLittleBigZ/LeetCode/tree/Insert-Delete-GetRandom-O(1)) [medium]
-  - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Characters-By-Frequency) [medium]
-  - [Find Minimum in Rotated Sorted Array II](https://github.com/theLittleBigZ/LeetCode/tree/Find-Minimum-in-Rotated-Sorted-Array-II) [hard]
-  - [Min Stack](https://github.com/theLittleBigZ/LeetCode/tree/Min-Stack) [easy]
-  - [Invert Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Invert-Binary-Tree) [easy]
-  - [Sort Colors](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Colors) [medium]
-  - [3Sum](https://github.com/theLittleBigZ/LeetCode/tree/3Sum) [medium]
-  - [Rotting Oranges](https://github.com/theLittleBigZ/LeetCode/tree/Rotting-Oranges) [medium] [^6]
-  - [Surrounded Regions](https://github.com/theLittleBigZ/LeetCode/tree/Surrounded-Regions) [medium] [^7]
+## Example 1:
 
-[^1]: Used solution from user DBabichev (Attempt 1) [current]
-[^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
-[^3]: Used solution from user WookieWarlord (Attempt 1) [current]
-[^4]: Used solution from user DBabichev (Attempt 1) [current]
-[^5]: Used solution from user yukkk (Attempt 1) [current]
-[^6]: Used solution from user gautamsw5 (Attempt 1) [current]
-[^7]: Used solution from user jianpingbadao (Attempt 1) [current]
+### Input: `grid = [[1,0,0,0],[0,0,0,0],[0,0,2,-1]]`
+
+### Output: `2`
+
+### Explanation: We have the following two paths: 
+- 1. `(0,0),(0,1),(0,2),(0,3),(1,3),(1,2),(1,1),(1,0),(2,0),(2,1),(2,2)`
+- 2. `(0,0),(1,0),(2,0),(2,1),(1,1),(0,1),(0,2),(0,3),(1,3),(1,2),(2,2)`
+
+
+
+## Example 2:
+
+### Input: `grid = [[1,0,0,0],[0,0,0,0],[0,0,0,2]]`
+
+### Output: `4`
+
+### Explanation: We have the following four paths: 
+- 1. `(0,0),(0,1),(0,2),(0,3),(1,3),(1,2),(1,1),(1,0),(2,0),(2,1),(2,2),(2,3)`
+- 2. `(0,0),(0,1),(1,1),(1,0),(2,0),(2,1),(2,2),(1,2),(0,2),(0,3),(1,3),(2,3)`
+- 3. `(0,0),(1,0),(2,0),(2,1),(2,2),(1,2),(1,1),(0,1),(0,2),(0,3),(1,3),(2,3)`
+- 4. `(0,0),(1,0),(2,0),(2,1),(1,1),(0,1),(0,2),(0,3),(1,3),(1,2),(2,2),(2,3)`
+
+
+
+## Example 3:
+
+### Input: `grid = [[0,1],[2,0]]`
+
+### Output: `0`
+
+### Explanation: There is no path that walks over every empty square exactly once.
+Note that the starting and ending square can be anywhere in the grid.
+ 
+
+
+## Constraints:
+- m == grid.length
+- n == grid[i].length
+- 1 <= m, n <= 20
+- 1 <= m * n <= 20
+- -1 <= grid[i][j] <= 2
+- There is exactly one starting cell and one ending cell.
+
+
+#### Attempt #1 used solution from user zayne-siew
