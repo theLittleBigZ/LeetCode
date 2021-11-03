@@ -37,6 +37,7 @@ Each question will have it's own branch, with the question and some examples
   - [Rotting Oranges](https://github.com/theLittleBigZ/LeetCode/tree/Rotting-Oranges) [medium] [^6]
   - [Surrounded Regions](https://github.com/theLittleBigZ/LeetCode/tree/Surrounded-Regions) [medium] [^7]
   - [Unique Paths III](https://github.com/theLittleBigZ/LeetCode/tree/Unique-Paths-III) [hard] [^8]
+  - [Sum Root to Leaf Numbers](https://github.com/theLittleBigZ/LeetCode/tree/Sum-Root-to-Leaf-Numbers) [medium]
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
