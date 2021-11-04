@@ -11,12 +11,8 @@ class Solution:
                 leafs.append(root.val)
             self.leafy(root.left, True, leafs)
             self.leafy(root.right, False, leafs)
-        return
         
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
         leafs = []
         self.leafy(root, False, leafs)
-        x = 0
-        for n in leafs:
-            x = x + n
-        return x
+        return sum(leafs)
