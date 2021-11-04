@@ -38,6 +38,7 @@ Each question will have it's own branch, with the question and some examples
   - [Surrounded Regions](https://github.com/theLittleBigZ/LeetCode/tree/Surrounded-Regions) [medium] [^7]
   - [Unique Paths III](https://github.com/theLittleBigZ/LeetCode/tree/Unique-Paths-III) [hard] [^8]
   - [Sum Root to Leaf Numbers](https://github.com/theLittleBigZ/LeetCode/tree/Sum-Root-to-Leaf-Numbers) [medium]
+  - [Sum of Left Leaves](https://github.com/theLittleBigZ/LeetCode/tree/Sum-of-Left-Leaves) [easy]
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
