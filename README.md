@@ -1,50 +1,36 @@
-# LeetCode
-## My Solutions for LeetCode problems
+# Arranging Coins
+You have `n` coins and you want to build a staircase with these coins. The staircase consists of `k` rows where the `i^th` row has exactly `i` coins. The last row of the staircase **may be** incomplete.
 
-  This repo will contain my solutions for each of the LeetCode problems I attempt, with each attempt with stats as well.
-Each question will have it's own branch, with the question and some examples
+Given the integer `n`, return *the number of **complete rows** of the staircase you will build*.
 
-### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
-  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy]
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
-  - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
-  - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
-  - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
-  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
-  - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
-  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
-  - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
-  - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/Construct-Binary-Search-Tree-from-Preorder-Traversal) [medium]
-  - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/Defanging-an-IP-Address) [easy]
-  - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/Final-Value-of-Variable-After-Performing-Operations) [easy]
-  - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
-  - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^2]
-  - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) [medium] [^3]
-  - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/Richest-Customer-Wealth) [easy]
-  - [Cousins in Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Cousins-in-Binary-Tree) [easy] [^4]
-  - [Next Greater Element I](https://github.com/theLittleBigZ/LeetCode/tree/Next-Greater-Element-I) [easy] [^5]
-  - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Words-in-a-String) [medium]
-  - [Insert Delete GetRandom O(1)](https://github.com/theLittleBigZ/LeetCode/tree/Insert-Delete-GetRandom-O(1)) [medium]
-  - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Characters-By-Frequency) [medium]
-  - [Find Minimum in Rotated Sorted Array II](https://github.com/theLittleBigZ/LeetCode/tree/Find-Minimum-in-Rotated-Sorted-Array-II) [hard]
-  - [Min Stack](https://github.com/theLittleBigZ/LeetCode/tree/Min-Stack) [easy]
-  - [Invert Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Invert-Binary-Tree) [easy]
-  - [Sort Colors](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Colors) [medium]
-  - [3Sum](https://github.com/theLittleBigZ/LeetCode/tree/3Sum) [medium]
-  - [Rotting Oranges](https://github.com/theLittleBigZ/LeetCode/tree/Rotting-Oranges) [medium] [^6]
-  - [Surrounded Regions](https://github.com/theLittleBigZ/LeetCode/tree/Surrounded-Regions) [medium] [^7]
-  - [Unique Paths III](https://github.com/theLittleBigZ/LeetCode/tree/Unique-Paths-III) [hard] [^8]
-  - [Sum Root to Leaf Numbers](https://github.com/theLittleBigZ/LeetCode/tree/Sum-Root-to-Leaf-Numbers) [medium]
-  - [Sum of Left Leaves](https://github.com/theLittleBigZ/LeetCode/tree/Sum-of-Left-Leaves) [easy]
+ 
 
-[^1]: Used solution from user DBabichev (Attempt 1) [current]
-[^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
-[^3]: Used solution from user WookieWarlord (Attempt 1) [current]
-[^4]: Used solution from user DBabichev (Attempt 1) [current]
-[^5]: Used solution from user yukkk (Attempt 1) [current]
-[^6]: Used solution from user gautamsw5 (Attempt 1) [current]
-[^7]: Used solution from user jianpingbadao (Attempt 1) [current]
-[^8]: Used solution from user zayne-siew (Attempt 1) [current]
+## Example 1:
+
+
+#### Input: 
+`n = 5`
+
+#### Output: 
+`2`
+
+#### Explanation: 
+`Because the 3rd row is incomplete, we return 2.`
+
+
+
+## Example 2:
+
+#### Input: 
+`n = 8`
+
+#### Output: 
+`3`
+
+#### Explanation: 
+`Because the 4th row is incomplete, we return 3.`
+
+
+
+## Constraints:
+- 1 <= n <= 2^31 - 1
