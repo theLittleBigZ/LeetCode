@@ -41,7 +41,7 @@ Each question will have it's own branch, with the question and some examples
   - [Sum of Left Leaves](https://github.com/theLittleBigZ/LeetCode/tree/Sum-of-Left-Leaves) [easy]
   - [Arranging Coins](https://github.com/theLittleBigZ/LeetCode/tree/Arranging-Coins) [easy]
   - [Multiply Strings](https://github.com/theLittleBigZ/LeetCode/tree/Multiply-Strings) [medium]
-  - [Unique Binary Search Trees](https://github.com/theLittleBigZ/LeetCode/tree/Unique-Binary-Search-Trees)
+  - [Unique Binary Search Trees](https://github.com/theLittleBigZ/LeetCode/tree/Unique-Binary-Search-Trees) [medium]
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
