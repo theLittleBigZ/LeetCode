@@ -4,7 +4,7 @@ Given an integer `n`, return *the number of structurally unique **BST**'s (binar
  
 
 ## Example 1:
-!(BST Examples)[https://assets.leetcode.com/uploads/2021/01/18/uniquebstn3.jpg]
+![BST Examples](https://assets.leetcode.com/uploads/2021/01/18/uniquebstn3.jpg)
 #### Input: 
 `n = 3`
 
