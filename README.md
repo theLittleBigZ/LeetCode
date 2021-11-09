@@ -53,4 +53,4 @@ Each question will have it's own branch, with the question and some examples
 [^7]: Used solution from user gautamsw5 (Attempt 1) [current]
 [^8]: Used solution from user jianpingbadao (Attempt 1) [current]
 [^9]: Used solution from user zayne-siew (Attempt 1) [current]
-[^10]: Current Attempt Fails (Time Limit Exceeded)
+[^10]: Used solution from user DBabichev (Attempt 2) [current]
