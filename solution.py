@@ -1,12 +1,18 @@
 class Solution:
     def findNumOfValidWords(self, words: List[str], puzzles: List[str]) -> List[int]:
-        ret = {}
-        for puzzle in puzzles:
-            ret[puzzle] = 0
-            for word in words:
-                if puzzle[0] in word:
-                    puzzleC = set(list(puzzle))
-                    wordC = set(list(word))
-                    if wordC.issubset(puzzleC):
-                        ret[puzzle] += 1
-        return list(ret.values())
+        def get_mask(s):
+            return reduce(lambda x, y: x|y, [1<<(ord(c) - 97) for c in s])
+        
+        ans, cnt = [0]*len(puzzles), Counter()
+        for word in words: cnt[get_mask(word)] += 1
+
+        for i, puzzle in enumerate(puzzles):
+            mask = get_mask(puzzle[1:])
+            addon = 1<<(ord(puzzle[0]) - 97)
+            submask = mask
+            while submask:
+                ans[i] += cnt[submask|addon]
+                submask = (submask - 1) & mask
+            ans[i] += cnt[addon]
+            
+        return ans
