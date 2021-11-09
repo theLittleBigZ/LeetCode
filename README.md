@@ -42,6 +42,7 @@ Each question will have it's own branch, with the question and some examples
   - [Arranging Coins](https://github.com/theLittleBigZ/LeetCode/tree/Arranging-Coins) [easy]
   - [Multiply Strings](https://github.com/theLittleBigZ/LeetCode/tree/Multiply-Strings) [medium]
   - [Unique Binary Search Trees](https://github.com/theLittleBigZ/LeetCode/tree/Unique-Binary-Search-Trees) [medium]
+  - [Number of Valid Words for Each Puzzle](https://github.com/theLittleBigZ/LeetCode/tree/Number-of-Valid-Words-for-Each-Puzzle) [hard] [^10]
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
@@ -52,3 +53,4 @@ Each question will have it's own branch, with the question and some examples
 [^7]: Used solution from user gautamsw5 (Attempt 1) [current]
 [^8]: Used solution from user jianpingbadao (Attempt 1) [current]
 [^9]: Used solution from user zayne-siew (Attempt 1) [current]
+[^10]: Current Attempt Fails (Time Limit Exceeded)
