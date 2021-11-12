@@ -1,12 +1,8 @@
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
-        for n in range(1,2000):
-            tot = n
-            fail = False
-            for m in nums:
-                tot += m
-                if tot<=0:
-                    fail = True
-                    break
-            if not fail:
-                return n
+        minN = 0
+        tot = 0
+        for num in nums:
+            tot += num
+            minN = min(minN, tot)
+        return -minN + 1
