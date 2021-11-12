@@ -45,6 +45,7 @@ Each question will have it's own branch, with the question and some examples
   - [Number of Valid Words for Each Puzzle](https://github.com/theLittleBigZ/LeetCode/tree/Number-of-Valid-Words-for-Each-Puzzle) [hard] [^10]
   - [Best Time to Buy and Sell Stock II](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-II) [medium]
   - [Minimum Value to Get Positive Step by Step Sum](https://github.com/theLittleBigZ/LeetCode/tree/Minimum-Value-to-Get-Positive-Step-by-Step-Sum) [easy]
+  - [Remove Linked List Elements](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Linked-List-Elements) [easy]
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
