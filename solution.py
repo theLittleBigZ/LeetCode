@@ -1,6 +1,6 @@
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
-        for n in range(1,10000):
+        for n in range(1,2000):
             tot = n
             fail = False
             for m in nums:
