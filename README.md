@@ -1,54 +1,46 @@
-# LeetCode
-## My Solutions for LeetCode problems
+# Number of Valid Words for Each Puzzle
+With respect to a given `puzzle` string, a `word` is valid if both the following conditions are satisfied:
+- word contains the first letter of puzzle.
+- For each letter in word, that letter is in puzzle.
+    - For example, if the puzzle is "abcdefg", then valid words are "faced", "cabbage", and "baggage", while
+    - invalid words are "beefed" (does not include 'a') and "based" (includes 's' which is not in the puzzle).
 
-  This repo will contain my solutions for each of the LeetCode problems I attempt, with each attempt with stats as well.
-Each question will have it's own branch, with the question and some examples
+Return *an array `answer`, where `answer[i]` is the number of words in the given word list `words` that is valid with respect to the puzzle `puzzles[i]`.*
+ 
 
-### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
-  - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy]
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
-  - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
-  - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
-  - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
-  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
-  - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
-  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
-  - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
-  - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/Construct-Binary-Search-Tree-from-Preorder-Traversal) [medium]
-  - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/Defanging-an-IP-Address) [easy]
-  - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/Final-Value-of-Variable-After-Performing-Operations) [easy]
-  - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
-  - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^2]
-  - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) [medium] [^3]
-  - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/Richest-Customer-Wealth) [easy]
-  - [Cousins in Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Cousins-in-Binary-Tree) [easy] [^4]
-  - [Next Greater Element I](https://github.com/theLittleBigZ/LeetCode/tree/Next-Greater-Element-I) [easy] [^5]
-  - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Words-in-a-String) [medium]
-  - [Insert Delete GetRandom O(1)](https://github.com/theLittleBigZ/LeetCode/tree/Insert-Delete-GetRandom-O(1)) [medium]
-  - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Characters-By-Frequency) [medium]
-  - [Find Minimum in Rotated Sorted Array II](https://github.com/theLittleBigZ/LeetCode/tree/Find-Minimum-in-Rotated-Sorted-Array-II) [hard]
-  - [Min Stack](https://github.com/theLittleBigZ/LeetCode/tree/Min-Stack) [easy]
-  - [Invert Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Invert-Binary-Tree) [easy]
-  - [Sort Colors](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Colors) [medium]
-  - [3Sum](https://github.com/theLittleBigZ/LeetCode/tree/3Sum) [medium] [^6]
-  - [Rotting Oranges](https://github.com/theLittleBigZ/LeetCode/tree/Rotting-Oranges) [medium] [^7]
-  - [Surrounded Regions](https://github.com/theLittleBigZ/LeetCode/tree/Surrounded-Regions) [medium] [^8]
-  - [Unique Paths III](https://github.com/theLittleBigZ/LeetCode/tree/Unique-Paths-III) [hard] [^9]
-  - [Sum Root to Leaf Numbers](https://github.com/theLittleBigZ/LeetCode/tree/Sum-Root-to-Leaf-Numbers) [medium]
-  - [Sum of Left Leaves](https://github.com/theLittleBigZ/LeetCode/tree/Sum-of-Left-Leaves) [easy]
-  - [Arranging Coins](https://github.com/theLittleBigZ/LeetCode/tree/Arranging-Coins) [easy]
-  - [Multiply Strings](https://github.com/theLittleBigZ/LeetCode/tree/Multiply-Strings) [medium]
-  - [Unique Binary Search Trees](https://github.com/theLittleBigZ/LeetCode/tree/Unique-Binary-Search-Trees) [medium]
 
-[^1]: Used solution from user DBabichev (Attempt 1) [current]
-[^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
-[^3]: Used solution from user WookieWarlord (Attempt 1) [current]
-[^4]: Used solution from user DBabichev (Attempt 1) [current]
-[^5]: Used solution from user yukkk (Attempt 1) [current]
-[^6]: Current Attempt Fails (Time Limit Exceeded)
-[^7]: Used solution from user gautamsw5 (Attempt 1) [current]
-[^8]: Used solution from user jianpingbadao (Attempt 1) [current]
-[^9]: Used solution from user zayne-siew (Attempt 1) [current]
+## Example 1:
+
+#### Input: 
+`words = ["aaaa","asas","able","ability","actt","actor","access"], puzzles = ["aboveyz","abrodyz","abslute","absoryz","actresz","gaswxyz"]`
+
+#### Output: 
+`[1,1,3,2,4,0]`
+
+#### Explanation: 
+- `1 valid word for "aboveyz" : "aaaa" `
+- `1 valid word for "abrodyz" : "aaaa"`
+- `3 valid words for "abslute" : "aaaa", "asas", "able"`
+- `2 valid words for "absoryz" : "aaaa", "asas"`
+- `4 valid words for "actresz" : "aaaa", "asas", "actt", "access"`
+- `There are no valid words for "gaswxyz" cause none of the words in the list contains letter 'g'.`
+
+
+
+## Example 2:
+
+#### Input: 
+`words = ["apple","pleas","please"], puzzles = ["aelwxyz","aelpxyz","aelpsxy","saelpxy","xaelpsy"]`
+
+#### Output: 
+`[0,1,3,2,0]`
+ 
+
+
+## Constraints:
+- 1 <= words.length <= 10^5
+- 4 <= words[i].length <= 50
+- 1 <= puzzles.length <= 10^4
+- puzzles[i].length == 7
+- words[i] and puzzles[i] consist of lowercase English letters.
+- Each puzzles[i] does not contain repeated characters.
