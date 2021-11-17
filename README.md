@@ -5,7 +5,7 @@
 Each question will have it's own branch, with the question and some examples
 
 ### Problems Done:
-  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/Two-Sum) [easy]
+  - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/main/Two%20Sum) [easy]
   - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Element) [easy]
   - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
   - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy]
