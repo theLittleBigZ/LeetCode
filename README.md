@@ -47,6 +47,7 @@ Each question will have it's own branch, with the question and some examples
   - [Minimum Value to Get Positive Step by Step Sum](https://github.com/theLittleBigZ/LeetCode/tree/Minimum-Value-to-Get-Positive-Step-by-Step-Sum) [easy]
   - [Remove Linked List Elements](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Linked-List-Elements) [easy]
   - [Largest Divisible Subset](https://github.com/theLittleBigZ/LeetCode/tree/Largest-Divisible-Subset) [medium] [^11]
+  - [Kth Smallest Number in Multiplication Table](https://github.com/theLittleBigZ/LeetCode/tree/Kth-Smallest-Number-in-Multiplication-Table) [hard]
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
