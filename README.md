@@ -48,7 +48,7 @@ Each question will have it's own branch, with the question and some examples
   - [Remove Linked List Elements](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Linked-List-Elements) [easy]
   - [Largest Divisible Subset](https://github.com/theLittleBigZ/LeetCode/tree/Largest-Divisible-Subset) [medium] [^11]
   - [Kth Smallest Number in Multiplication Table](https://github.com/theLittleBigZ/LeetCode/tree/Kth-Smallest-Number-in-Multiplication-Table) [hard]
-  - [Unique Paths](https://github.com/theLittleBigZ/LeetCode/tree/main/Unique-Paths) [medium]
+  - [Unique Paths](https://github.com/theLittleBigZ/LeetCode/tree/main/Unique%20Paths) [medium]
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
