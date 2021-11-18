@@ -50,6 +50,8 @@ Each question will have it's own branch, with the question and some examples
   - [Kth Smallest Number in Multiplication Table](https://github.com/theLittleBigZ/LeetCode/tree/Kth-Smallest-Number-in-Multiplication-Table) [hard]
   - [Unique Paths](https://github.com/theLittleBigZ/LeetCode/tree/main/Unique%20Paths) [medium]
   - [Find All Numbers Disappeared in an Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) [easy]
+  - [Combine Two Tables](https://github.com/theLittleBigZ/LeetCode/tree/main/Combine%20Two%20Tables) [easy]
+
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
