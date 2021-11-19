@@ -51,6 +51,7 @@ Each question will have it's own branch, with the question and some examples
   - [Unique Paths](https://github.com/theLittleBigZ/LeetCode/tree/main/Unique%20Paths) [medium]
   - [Find All Numbers Disappeared in an Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) [easy]
   - [Combine Two Tables](https://github.com/theLittleBigZ/LeetCode/tree/main/Combine%20Two%20Tables) [easy]
+  - [Hamming Distance](https://github.com/theLittleBigZ/LeetCode/tree/main/Hamming%20Distance) [easy]
 
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
