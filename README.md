@@ -53,6 +53,8 @@ Each question will have it's own branch, with the question and some examples
   - [Combine Two Tables](https://github.com/theLittleBigZ/LeetCode/tree/main/Combine%20Two%20Tables) [easy]
   - [Hamming Distance](https://github.com/theLittleBigZ/LeetCode/tree/main/Hamming%20Distance) [easy]
   - [Single Element in a Sorted Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Single%20Element%20in%20a%20Sorted%20Array) [medium]
+  - [Delete Node in a BST](https://github.com/theLittleBigZ/LeetCode/tree/main/Delete%20Node%20in%20a%20BST) [medium]
+  - [Largest Component Size by Common Factor](https://github.com/theLittleBigZ/LeetCode/tree/main/Largest%20Component%20Size%20by%20Common%20Factor) [hard] [^12]
 
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
@@ -66,3 +68,4 @@ Each question will have it's own branch, with the question and some examples
 [^9]: Used solution from user zayne-siew (Attempt 1) [current]
 [^10]: Used solution from user DBabichev (Attempt 2) [current]
 [^11]: Used solution from user mshanker (Attempt 1) [current]
+[^12]: Used solution from user swastik1712 (Attempt 1) [current]
