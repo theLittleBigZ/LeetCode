@@ -55,6 +55,7 @@ Each question will have it's own branch, with the question and some examples
   - [Single Element in a Sorted Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Single%20Element%20in%20a%20Sorted%20Array) [medium]
   - [Delete Node in a BST](https://github.com/theLittleBigZ/LeetCode/tree/main/Delete%20Node%20in%20a%20BST) [medium]
   - [Largest Component Size by Common Factor](https://github.com/theLittleBigZ/LeetCode/tree/main/Largest%20Component%20Size%20by%20Common%20Factor) [hard] [^12]
+  - [Interval List Intersections](https://github.com/theLittleBigZ/LeetCode/tree/main/Interval%20List%20Intersections) [medium]
 
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
