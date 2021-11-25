@@ -56,6 +56,7 @@ Each question will have it's own branch, with the question and some examples
   - [Delete Node in a BST](https://github.com/theLittleBigZ/LeetCode/tree/main/Delete%20Node%20in%20a%20BST) [medium]
   - [Largest Component Size by Common Factor](https://github.com/theLittleBigZ/LeetCode/tree/main/Largest%20Component%20Size%20by%20Common%20Factor) [hard] [^12]
   - [Interval List Intersections](https://github.com/theLittleBigZ/LeetCode/tree/main/Interval%20List%20Intersections) [medium]
+  - [Maximum Subarray](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Subarray) [easy] [^13]
 
 
 [^1]: Used solution from user DBabichev (Attempt 1) [current]
@@ -70,3 +71,4 @@ Each question will have it's own branch, with the question and some examples
 [^10]: Used solution from user DBabichev (Attempt 2) [current]
 [^11]: Used solution from user mshanker (Attempt 1) [current]
 [^12]: Used solution from user swastik1712 (Attempt 1) [current]
+[^13]: Used solution from user __LeetCode (Attempt 1) [current]
