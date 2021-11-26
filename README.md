@@ -8,7 +8,7 @@ Each question will have it's own branch, with the question and some examples
   - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/main/Two%20Sum) [easy]
   - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/main/Remove%20Element) [easy]
   - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/main/Implement%20Trie) [medium]
-  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy]
+  - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Palindrome%20Number) [easy]
   - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
   - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
   - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
