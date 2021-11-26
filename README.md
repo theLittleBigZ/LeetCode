@@ -7,7 +7,7 @@ Each question will have it's own branch, with the question and some examples
 ### Problems Done:
   - [Two Sum](https://github.com/theLittleBigZ/LeetCode/tree/main/Two%20Sum) [easy]
   - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/main/Remove%20Element) [easy]
-  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/Implement-Trie) [medium] [^1]
+  - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/main/Implement%20Trie) [medium]
   - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/Palindrome-Number) [easy]
   - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
   - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
@@ -58,8 +58,6 @@ Each question will have it's own branch, with the question and some examples
   - [Interval List Intersections](https://github.com/theLittleBigZ/LeetCode/tree/main/Interval%20List%20Intersections) [medium]
   - [Maximum Subarray](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Subarray) [easy] [^13]
 
-
-[^1]: Used solution from user DBabichev (Attempt 1) [current]
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
 [^4]: Used solution from user DBabichev (Attempt 1) [current]
