@@ -9,7 +9,7 @@ Each question will have it's own branch, with the question and some examples
   - [Remove Element](https://github.com/theLittleBigZ/LeetCode/tree/main/Remove%20Element) [easy] :heavy_check_mark:
   - [Implement Trie](https://github.com/theLittleBigZ/LeetCode/tree/main/Implement%20Trie) [medium] :heavy_check_mark:
   - [Palindrome Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Palindrome%20Number) [easy] :heavy_check_mark:
-  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/Find-All-Duplicates-In-An-Array) [medium]
+  - [Find All Duplicates In An Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Find%20All%20Duplicates%20In%20An%20Array) [medium] :heavy_check_mark:
   - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/Concatenation-of-Array) [easy]
   - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/Build-Array-from-Permutation) [easy]
   - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Diameter-of-Binary-Tree) [easy]
