@@ -59,6 +59,7 @@ Each question will have it's own branch, with the question and some examples
   - [Maximum Subarray](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Subarray) [easy] [^13]
   - [Search Insert Position](https://github.com/theLittleBigZ/LeetCode/tree/main/Search%20Insert%20Position) [easy]
   - [Contains Duplicate](https://github.com/theLittleBigZ/LeetCode/tree/main/Contains%20Duplicate) [easy]
+  - [Accounts Merge](https://github.com/theLittleBigZ/LeetCode/tree/main/Accounts%20Merge) [medium] [^14]
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -72,3 +73,4 @@ Each question will have it's own branch, with the question and some examples
 [^11]: Used solution from user mshanker (Attempt 1) [current]
 [^12]: Used solution from user swastik1712 (Attempt 1) [current]
 [^13]: Used solution from user __LeetCode (Attempt 1) [current]
+[^14]: Used solution from user yangshun (Attempt 1) [current]
