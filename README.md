@@ -58,6 +58,7 @@ Each question will have it's own branch, with the question and some examples
   - [Interval List Intersections](https://github.com/theLittleBigZ/LeetCode/tree/main/Interval%20List%20Intersections) [medium]
   - [Maximum Subarray](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Subarray) [easy] [^13]
   - [Search Insert Position](https://github.com/theLittleBigZ/LeetCode/tree/main/Search%20Insert%20Position) [easy]
+  - [Contains Duplicate](https://github.com/theLittleBigZ/LeetCode/tree/main/Contains%20Duplicate) [easy]
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
