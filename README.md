@@ -60,6 +60,7 @@ Each question will have it's own branch, with the question and some examples
   - [Search Insert Position](https://github.com/theLittleBigZ/LeetCode/tree/main/Search%20Insert%20Position) [easy] :heavy_check_mark:
   - [Contains Duplicate](https://github.com/theLittleBigZ/LeetCode/tree/main/Contains%20Duplicate) [easy] :heavy_check_mark:
   - [Accounts Merge](https://github.com/theLittleBigZ/LeetCode/tree/main/Accounts%20Merge) [medium] [^14] :heavy_check_mark:
+  - [Maximal Rectangle](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximal%20Rectangle) [hard] [^15] :heavy_check_mark:
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -74,3 +75,4 @@ Each question will have it's own branch, with the question and some examples
 [^12]: Used solution from user swastik1712 (Attempt 1) [current]
 [^13]: Used solution from user __LeetCode (Attempt 1) [current]
 [^14]: Used solution from user yangshun (Attempt 1) [current]
+[^15]: Used solution from user DBabichev (Attempt 1) [current]
