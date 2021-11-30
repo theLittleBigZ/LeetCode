@@ -48,18 +48,18 @@ Each question will have it's own branch, with the question and some examples
   - [Remove Linked List Elements](https://github.com/theLittleBigZ/LeetCode/tree/Remove-Linked-List-Elements) [easy]
   - [Largest Divisible Subset](https://github.com/theLittleBigZ/LeetCode/tree/Largest-Divisible-Subset) [medium] [^11]
   - [Kth Smallest Number in Multiplication Table](https://github.com/theLittleBigZ/LeetCode/tree/Kth-Smallest-Number-in-Multiplication-Table) [hard]
-  - [Unique Paths](https://github.com/theLittleBigZ/LeetCode/tree/main/Unique%20Paths) [medium]
-  - [Find All Numbers Disappeared in an Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) [easy]
-  - [Combine Two Tables](https://github.com/theLittleBigZ/LeetCode/tree/main/Combine%20Two%20Tables) [easy]
-  - [Hamming Distance](https://github.com/theLittleBigZ/LeetCode/tree/main/Hamming%20Distance) [easy]
-  - [Single Element in a Sorted Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Single%20Element%20in%20a%20Sorted%20Array) [medium]
-  - [Delete Node in a BST](https://github.com/theLittleBigZ/LeetCode/tree/main/Delete%20Node%20in%20a%20BST) [medium]
-  - [Largest Component Size by Common Factor](https://github.com/theLittleBigZ/LeetCode/tree/main/Largest%20Component%20Size%20by%20Common%20Factor) [hard] [^12]
-  - [Interval List Intersections](https://github.com/theLittleBigZ/LeetCode/tree/main/Interval%20List%20Intersections) [medium]
-  - [Maximum Subarray](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Subarray) [easy] [^13]
-  - [Search Insert Position](https://github.com/theLittleBigZ/LeetCode/tree/main/Search%20Insert%20Position) [easy]
-  - [Contains Duplicate](https://github.com/theLittleBigZ/LeetCode/tree/main/Contains%20Duplicate) [easy]
-  - [Accounts Merge](https://github.com/theLittleBigZ/LeetCode/tree/main/Accounts%20Merge) [medium] [^14]
+  - [Unique Paths](https://github.com/theLittleBigZ/LeetCode/tree/main/Unique%20Paths) [medium] :heavy_check_mark:
+  - [Find All Numbers Disappeared in an Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Find%20All%20Numbers%20Disappeared%20in%20an%20Array) [easy] :heavy_check_mark:
+  - [Combine Two Tables](https://github.com/theLittleBigZ/LeetCode/tree/main/Combine%20Two%20Tables) [easy] :heavy_check_mark:
+  - [Hamming Distance](https://github.com/theLittleBigZ/LeetCode/tree/main/Hamming%20Distance) [easy] :heavy_check_mark:
+  - [Single Element in a Sorted Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Single%20Element%20in%20a%20Sorted%20Array) [medium] :heavy_check_mark:
+  - [Delete Node in a BST](https://github.com/theLittleBigZ/LeetCode/tree/main/Delete%20Node%20in%20a%20BST) [medium] :heavy_check_mark:
+  - [Largest Component Size by Common Factor](https://github.com/theLittleBigZ/LeetCode/tree/main/Largest%20Component%20Size%20by%20Common%20Factor) [hard] [^12] :heavy_check_mark:
+  - [Interval List Intersections](https://github.com/theLittleBigZ/LeetCode/tree/main/Interval%20List%20Intersections) [medium] :heavy_check_mark:
+  - [Maximum Subarray](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Subarray) [easy] [^13] :heavy_check_mark:
+  - [Search Insert Position](https://github.com/theLittleBigZ/LeetCode/tree/main/Search%20Insert%20Position) [easy] :heavy_check_mark:
+  - [Contains Duplicate](https://github.com/theLittleBigZ/LeetCode/tree/main/Contains%20Duplicate) [easy] :heavy_check_mark:
+  - [Accounts Merge](https://github.com/theLittleBigZ/LeetCode/tree/main/Accounts%20Merge) [medium] [^14] :heavy_check_mark:
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
