@@ -61,6 +61,7 @@ Each question will have it's own branch, with the question and some examples
   - [Contains Duplicate](https://github.com/theLittleBigZ/LeetCode/tree/main/Contains%20Duplicate) [easy] :heavy_check_mark:
   - [Accounts Merge](https://github.com/theLittleBigZ/LeetCode/tree/main/Accounts%20Merge) [medium] [^14] :heavy_check_mark:
   - [Maximal Rectangle](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximal%20Rectangle) [hard] [^15] :heavy_check_mark:
+  - [House Robber](https://github.com/theLittleBigZ/LeetCode/tree/main/House%20Robber) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
