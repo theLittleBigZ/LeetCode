@@ -66,6 +66,7 @@ Each question will have it's own branch, with the question and some examples
   - [Maximum Product Subarray](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Product%20Subarray) [medium] ✔️
   - [Stream of Characters](https://github.com/theLittleBigZ/LeetCode/tree/main/Stream%20of%20Characters) [hard] [^16] ✔️
   - [House Robber III](https://github.com/theLittleBigZ/LeetCode/tree/main/House%20Robber%20III) [medium] [^17] ✔️
+  - [Minimum Cost to Move Chips to The Same Position](https://github.com/theLittleBigZ/LeetCode/tree/main/Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
