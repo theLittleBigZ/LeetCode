@@ -65,6 +65,7 @@ Each question will have it's own branch, with the question and some examples
   - [Odd Even Linked List](https://github.com/theLittleBigZ/LeetCode/tree/main/Odd%20Even%20Linked%20List) [medium] ✔️
   - [Maximum Product Subarray](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Product%20Subarray) [medium] ✔️
   - [Stream of Characters](https://github.com/theLittleBigZ/LeetCode/tree/main/Stream%20of%20Characters) [hard] [^16] ✔️
+  - [House Robber III](https://github.com/theLittleBigZ/LeetCode/tree/main/House%20Robber%20III) [medium] [^17] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -81,3 +82,4 @@ Each question will have it's own branch, with the question and some examples
 [^14]: Used solution from user yangshun (Attempt 1) [current]
 [^15]: Used solution from user DBabichev (Attempt 1) [current]
 [^16]: Used solution from user archit91 (Attempt 1) [current]
+[^17]: Used solution from user n124345679976 (Attempt 1) [current]
