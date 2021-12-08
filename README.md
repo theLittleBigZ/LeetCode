@@ -13,7 +13,7 @@ Each question will have it's own branch, with the question and some examples
   - [Concatenation of Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Concatenation%20of%20Array) [easy] :heavy_check_mark:
   - [Build Array from Permutation](https://github.com/theLittleBigZ/LeetCode/tree/main/Build%20Array%20from%20Permutation) [easy] :heavy_check_mark:
   - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/main/Diameter%20of%20Binary%20Tree) [easy] ✔️
-  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/Valid-Number) [hard]
+  - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Valid%20Number) [hard] ✔️
   - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/Guess-Number-Higher-or-Lower) [easy]
   - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
   - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
