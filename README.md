@@ -69,6 +69,7 @@ Each question will have it's own branch, with the question and some examples
   - [Minimum Cost to Move Chips to The Same Position](https://github.com/theLittleBigZ/LeetCode/tree/main/Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position) [easy] ✔️
   - [Convert Binary Number in a Linked List to Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) [easy] ✔️
   - [Binary Tree Tilt](https://github.com/theLittleBigZ/LeetCode/tree/main/Binary%20Tree%20Tilt) [easy] ✔️
+  - [Jump Game III](https://github.com/theLittleBigZ/LeetCode/tree/main/Jump%20Game%20III) [medium] [^18] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -86,3 +87,4 @@ Each question will have it's own branch, with the question and some examples
 [^15]: Used solution from user DBabichev (Attempt 1) [current]
 [^16]: Used solution from user archit91 (Attempt 1) [current]
 [^17]: Used solution from user n124345679976 (Attempt 1) [current]
+[^18]: Used solution from user ashu25 (Attempt 1) [current]
