@@ -70,6 +70,7 @@ Each question will have it's own branch, with the question and some examples
   - [Convert Binary Number in a Linked List to Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer) [easy] ✔️
   - [Binary Tree Tilt](https://github.com/theLittleBigZ/LeetCode/tree/main/Binary%20Tree%20Tilt) [easy] ✔️
   - [Jump Game III](https://github.com/theLittleBigZ/LeetCode/tree/main/Jump%20Game%20III) [medium] [^18] ✔️
+  - [Domino and Tromino Tiling](https://github.com/theLittleBigZ/LeetCode/tree/main/Domino%20and%20Tromino%20Tiling) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
