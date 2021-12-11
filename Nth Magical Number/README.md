@@ -1,7 +1,7 @@
 # Nth Magical Number
 A positive integer is *magical* if it is divisible by either `a` or `b`.
 
-Given the three integers `n`, `a`, and `b`, return the `n<sup>th</sup>` magical number. Since the answer may be very large, **return it modulo** 10<sup>9</sup> + 7.
+Given the three integers `n`, `a`, and `b`, return the `n`<sup>th</sup> magical number. Since the answer may be very large, **return it modulo** 10<sup>9</sup> + 7.
 
  
 
