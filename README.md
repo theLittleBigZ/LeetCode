@@ -71,6 +71,7 @@ Each question will have it's own branch, with the question and some examples
   - [Binary Tree Tilt](https://github.com/theLittleBigZ/LeetCode/tree/main/Binary%20Tree%20Tilt) [easy] ✔️
   - [Jump Game III](https://github.com/theLittleBigZ/LeetCode/tree/main/Jump%20Game%20III) [medium] [^18] ✔️
   - [Domino and Tromino Tiling](https://github.com/theLittleBigZ/LeetCode/tree/main/Domino%20and%20Tromino%20Tiling) [medium] ✔️
+  - [Nth Magical Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Nth%20Magical%20Number) [hard] [^19] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -89,3 +90,4 @@ Each question will have it's own branch, with the question and some examples
 [^16]: Used solution from user archit91 (Attempt 1) [current]
 [^17]: Used solution from user n124345679976 (Attempt 1) [current]
 [^18]: Used solution from user ashu25 (Attempt 1) [current]
+[^19]: Used solution from user artod (Attempt 1) [current]
