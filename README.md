@@ -74,6 +74,7 @@ Each question will have it's own branch, with the question and some examples
   - [Nth Magical Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Nth%20Magical%20Number) [hard] [^19] ✔️
   - [Partition Equal Subset Sum](https://github.com/theLittleBigZ/LeetCode/tree/main/Partition%20Equal%20Subset%20Sum) [medium] [^20] ✔️
   - [Consecutive Characters](https://github.com/theLittleBigZ/LeetCode/tree/main/Consecutive%20Characters) [easy] ✔️
+  - [Range Sum of BST](https://github.com/theLittleBigZ/LeetCode/tree/main/Range%20Sum%20of%20BST) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
