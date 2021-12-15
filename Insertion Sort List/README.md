@@ -8,9 +8,6 @@ The steps of the **insertion sort** algorithm:
 2. At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list and inserts it there.
 3. It repeats until no input elements remain.
 
-The following is a graphical example of the insertion sort algorithm. The partially sorted list (black) initially contains only the first element in the list. One element (red) is removed from the input data and inserted in-place into the sorted list with each iteration.
-![image](https://user-images.githubusercontent.com/24850908/146278851-77721b41-6a70-4ebb-9551-4b1a18a6d7f7.png)
-
 
  
 ## Example 1:
