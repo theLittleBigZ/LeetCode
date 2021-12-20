@@ -78,6 +78,7 @@ Each question will have it's own branch, with the question and some examples
   - [Insertion Sort List](https://github.com/theLittleBigZ/LeetCode/tree/main/Insertion%20Sort%20List) [medium] ✔️
   - [Minimum Height Trees](https://github.com/theLittleBigZ/LeetCode/tree/main/Minimum%20Height%20Trees) [medium] ✔️
   - [Maximal Square](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximal%20Square) [medium] ✔️
+  - [Minimum Absolute Difference](https://github.com/theLittleBigZ/LeetCode/tree/main/Minimum%20Absolute%20Difference) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
