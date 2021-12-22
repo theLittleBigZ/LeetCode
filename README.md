@@ -80,6 +80,7 @@ Each question will have it's own branch, with the question and some examples
   - [Maximal Square](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximal%20Square) [medium] ✔️
   - [Minimum Absolute Difference](https://github.com/theLittleBigZ/LeetCode/tree/main/Minimum%20Absolute%20Difference) [easy] ✔️
   - [Reorder List](https://github.com/theLittleBigZ/LeetCode/tree/main/Reorder%20List) [medium] [^21] ✔️
+  - [Power of Two](https://github.com/theLittleBigZ/LeetCode/tree/main/Power%20of%20Two) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
