@@ -15,7 +15,7 @@ Each question will have it's own branch, with the question and some examples
   - [Diameter of Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/main/Diameter%20of%20Binary%20Tree) [easy] ✔️
   - [Valid Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Valid%20Number) [hard] ✔️
   - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/main/Guess%20Number%20Higher%20or%20Lower) [easy] ✔️
-  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/Merge-Two-Sorted-Lists) [easy]
+  - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/main/Merge%20Two%20Sorted%20Lists) [easy] ✔️
   - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Integer) [medium]
   - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/Construct-Binary-Search-Tree-from-Preorder-Traversal) [medium]
   - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/Defanging-an-IP-Address) [easy]
