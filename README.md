@@ -31,7 +31,7 @@ Each question will have it's own branch, with the question and some examples
   - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/main/Sort%20Characters%20By%20Frequency) [medium] ✔️
   - [Find Minimum in Rotated Sorted Array II](https://github.com/theLittleBigZ/LeetCode/tree/main/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) [hard] ✔️
   - [Min Stack](https://github.com/theLittleBigZ/LeetCode/tree/main/Min%20Stack) [easy] ✔️
-  - [Invert Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Invert-Binary-Tree) [easy]
+  - [Invert Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/main/Invert%20Binary%20Tree) [easy] ✔️
   - [Sort Colors](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Colors) [medium]
   - [3Sum](https://github.com/theLittleBigZ/LeetCode/tree/3Sum) [medium] [^6]
   - [Rotting Oranges](https://github.com/theLittleBigZ/LeetCode/tree/Rotting-Oranges) [medium] [^7]
