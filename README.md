@@ -84,6 +84,7 @@ Each question will have it's own branch, with the question and some examples
   - [Merge Intervals](https://github.com/theLittleBigZ/LeetCode/tree/main/Merge%20Intervals) [medium] ✔️
   - [K Closest Points to Origin](https://github.com/theLittleBigZ/LeetCode/tree/main/K%20Closest%20Points%20to%20Origin) [medium] ✔️
   - [Number Complement](https://github.com/theLittleBigZ/LeetCode/tree/main/Number%20Complement) [easy] ✔️
+  - [Middle of the Linked List](https://github.com/theLittleBigZ/LeetCode/tree/main/Middle%20of%20the%20Linked%20List) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
