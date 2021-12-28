@@ -28,7 +28,7 @@ Each question will have it's own branch, with the question and some examples
   - [Next Greater Element I](https://github.com/theLittleBigZ/LeetCode/tree/Next-Greater-Element-I) [easy] [^5]
   - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/main/Reverse%20Words%20in%20a%20String) [medium] ✔️
   - [Insert Delete GetRandom O(1)](https://github.com/theLittleBigZ/LeetCode/tree/main/Insert%20Delete%20GetRandom%20O(1)) [medium] ✔️
-  - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Characters-By-Frequency) [medium]
+  - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/main/Sort%20Characters%20By%20Frequency) [medium] ✔️
   - [Find Minimum in Rotated Sorted Array II](https://github.com/theLittleBigZ/LeetCode/tree/Find-Minimum-in-Rotated-Sorted-Array-II) [hard]
   - [Min Stack](https://github.com/theLittleBigZ/LeetCode/tree/Min-Stack) [easy]
   - [Invert Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Invert-Binary-Tree) [easy]
