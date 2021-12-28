@@ -17,7 +17,7 @@ Each question will have it's own branch, with the question and some examples
   - [Guess Number Higher or Lower](https://github.com/theLittleBigZ/LeetCode/tree/main/Guess%20Number%20Higher%20or%20Lower) [easy] ✔️
   - [Merge Two Sorted Lists](https://github.com/theLittleBigZ/LeetCode/tree/main/Merge%20Two%20Sorted%20Lists) [easy] ✔️
   - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Reverse%20Integer) [medium] ✔️
-  - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/Construct-Binary-Search-Tree-from-Preorder-Traversal) [medium]
+  - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/main/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) [medium] ✔️
   - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/Defanging-an-IP-Address) [easy]
   - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/Final-Value-of-Variable-After-Performing-Operations) [easy]
   - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
