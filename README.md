@@ -26,7 +26,7 @@ Each question will have it's own branch, with the question and some examples
   - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/main/Richest%20Customer%20Wealth) [easy] ✔️
   - [Cousins in Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Cousins-in-Binary-Tree) [easy] [^4]
   - [Next Greater Element I](https://github.com/theLittleBigZ/LeetCode/tree/Next-Greater-Element-I) [easy] [^5]
-  - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Words-in-a-String) [medium]
+  - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/main/Reverse%20Words%20in%20a%20String) [medium] ✔️
   - [Insert Delete GetRandom O(1)](https://github.com/theLittleBigZ/LeetCode/tree/Insert-Delete-GetRandom-O(1)) [medium]
   - [Sort Characters By Frequency](https://github.com/theLittleBigZ/LeetCode/tree/Sort-Characters-By-Frequency) [medium]
   - [Find Minimum in Rotated Sorted Array II](https://github.com/theLittleBigZ/LeetCode/tree/Find-Minimum-in-Rotated-Sorted-Array-II) [hard]
