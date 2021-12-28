@@ -19,7 +19,7 @@ Each question will have it's own branch, with the question and some examples
   - [Reverse Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Reverse%20Integer) [medium] ✔️
   - [Construct Binary Search Tree from Preorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/main/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) [medium] ✔️
   - [Defanging an IP Address](https://github.com/theLittleBigZ/LeetCode/tree/main/Defanging%20an%20IP%20Address) [easy] ✔️
-  - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/Final-Value-of-Variable-After-Performing-Operations) [easy]
+  - [Final Value of Variable After Performing Operations](https://github.com/theLittleBigZ/LeetCode/tree/main/Final%20Value%20of%20Variable%20After%20Performing%20Operations) [easy] ✔️
   - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/Running-Sum-of-1d-Array) [easy]
   - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^2]
   - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) [medium] [^3]
