@@ -6,7 +6,7 @@ If there are two middle nodes, return the second middle node.
 
  
 
-Example 1:
+## Example 1:
 ![image](https://user-images.githubusercontent.com/24850908/147589865-41f8fc1b-1812-4436-bf7b-1deb2c593a9d.png)
 
 #### Input: 
