@@ -23,7 +23,7 @@ Each question will have it's own branch, with the question and some examples
   - [Running Sum of 1d Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Running%20Sum%20of%201d%20Array) [easy] ✔️
   - [Perfect-Squares](https://github.com/theLittleBigZ/LeetCode/tree/Perfect-Squares) [medium] [^2]
   - [Best Time to Buy and Sell Stock with Cooldown](https://github.com/theLittleBigZ/LeetCode/tree/Best-Time-to-Buy-and-Sell-Stock-with-Cooldown) [medium] [^3]
-  - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/Richest-Customer-Wealth) [easy]
+  - [Richest Customer Wealth](https://github.com/theLittleBigZ/LeetCode/tree/main/Richest%20Customer%20Wealth) [easy] ✔️
   - [Cousins in Binary Tree](https://github.com/theLittleBigZ/LeetCode/tree/Cousins-in-Binary-Tree) [easy] [^4]
   - [Next Greater Element I](https://github.com/theLittleBigZ/LeetCode/tree/Next-Greater-Element-I) [easy] [^5]
   - [Reverse Words in a String](https://github.com/theLittleBigZ/LeetCode/tree/Reverse-Words-in-a-String) [medium]
