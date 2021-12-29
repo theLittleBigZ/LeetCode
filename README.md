@@ -85,6 +85,7 @@ Each question will have it's own branch, with the question and some examples
   - [K Closest Points to Origin](https://github.com/theLittleBigZ/LeetCode/tree/main/K%20Closest%20Points%20to%20Origin) [medium] ✔️
   - [Number Complement](https://github.com/theLittleBigZ/LeetCode/tree/main/Number%20Complement) [easy] ✔️
   - [Middle of the Linked List](https://github.com/theLittleBigZ/LeetCode/tree/main/Middle%20of%20the%20Linked%20List) [easy] ✔️
+  - [Populating Next Right Pointers in Each Node](https://github.com/theLittleBigZ/LeetCode/tree/main/Populating%20Next%20Right%20Pointers%20in%20Each%20Node) [medium] [^22] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -106,3 +107,4 @@ Each question will have it's own branch, with the question and some examples
 [^19]: Used solution from user artod (Attempt 1) [current]
 [^20]: Used solution from user ZhexiongLiu (Attempt 1) [current]
 [^21]: Used solution from user m-d-f (Attempt 1) [current]
+[^22]: Used solution from user zhanweiting (Attempt 1) [current]
