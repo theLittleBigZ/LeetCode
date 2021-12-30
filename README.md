@@ -86,6 +86,7 @@ Each question will have it's own branch, with the question and some examples
   - [Number Complement](https://github.com/theLittleBigZ/LeetCode/tree/main/Number%20Complement) [easy] ✔️
   - [Middle of the Linked List](https://github.com/theLittleBigZ/LeetCode/tree/main/Middle%20of%20the%20Linked%20List) [easy] ✔️
   - [Populating Next Right Pointers in Each Node](https://github.com/theLittleBigZ/LeetCode/tree/main/Populating%20Next%20Right%20Pointers%20in%20Each%20Node) [medium] [^22] ✔️
+  - [Smallest Integer Divisible by K](https://github.com/theLittleBigZ/LeetCode/tree/main/Smallest%20Integer%20Divisible%20by%20K) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
