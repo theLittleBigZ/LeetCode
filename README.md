@@ -87,6 +87,7 @@ Each question will have it's own branch, with the question and some examples
   - [Middle of the Linked List](https://github.com/theLittleBigZ/LeetCode/tree/main/Middle%20of%20the%20Linked%20List) [easy] ✔️
   - [Populating Next Right Pointers in Each Node](https://github.com/theLittleBigZ/LeetCode/tree/main/Populating%20Next%20Right%20Pointers%20in%20Each%20Node) [medium] [^22] ✔️
   - [Smallest Integer Divisible by K](https://github.com/theLittleBigZ/LeetCode/tree/main/Smallest%20Integer%20Divisible%20by%20K) [medium] ✔️
+  - [Pairs of Songs With Total Durations Divisible by 60](https://github.com/theLittleBigZ/LeetCode/tree/main/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060) [medium] [^23] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -109,3 +110,4 @@ Each question will have it's own branch, with the question and some examples
 [^20]: Used solution from user ZhexiongLiu (Attempt 1) [current]
 [^21]: Used solution from user m-d-f (Attempt 1) [current]
 [^22]: Used solution from user zhanweiting (Attempt 1) [current]
+[^23]: Used solution from user warmr0bot (Attempt 1) [current]
