@@ -89,6 +89,7 @@ Each question will have it's own branch, with the question and some examples
   - [Smallest Integer Divisible by K](https://github.com/theLittleBigZ/LeetCode/tree/main/Smallest%20Integer%20Divisible%20by%20K) [medium] ✔️
   - [Pairs of Songs With Total Durations Divisible by 60](https://github.com/theLittleBigZ/LeetCode/tree/main/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060) [medium] [^23] ✔️
   - [Complement of Base 10 Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Complement%20of%20Base%2010%20Integer) [easy] ✔️
+  - [Palindrome Partitioning](https://github.com/theLittleBigZ/LeetCode/tree/main/Palindrome%20Partitioning) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
