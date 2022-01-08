@@ -91,6 +91,7 @@ Each question will have it's own branch, with the question and some examples
   - [Complement of Base 10 Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Complement%20of%20Base%2010%20Integer) [easy] ✔️
   - [Palindrome Partitioning](https://github.com/theLittleBigZ/LeetCode/tree/main/Palindrome%20Partitioning) [medium] ✔️
   - [Linked List Random Node](https://github.com/theLittleBigZ/LeetCode/tree/main/Linked%20List%20Random%20Node) [medium] ✔️
+  - [Cherry Pickup II](https://github.com/theLittleBigZ/LeetCode/tree/main/Cherry%20Pickup%20II) [hard] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
