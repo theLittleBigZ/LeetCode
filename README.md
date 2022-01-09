@@ -92,6 +92,7 @@ Each question will have it's own branch, with the question and some examples
   - [Palindrome Partitioning](https://github.com/theLittleBigZ/LeetCode/tree/main/Palindrome%20Partitioning) [medium] ✔️
   - [Linked List Random Node](https://github.com/theLittleBigZ/LeetCode/tree/main/Linked%20List%20Random%20Node) [medium] ✔️
   - [Cherry Pickup II](https://github.com/theLittleBigZ/LeetCode/tree/main/Cherry%20Pickup%20II) [hard] ✔️
+  - [Robot Bounded In Circle](https://github.com/theLittleBigZ/LeetCode/tree/main/Robot%20Bounded%20In%20Circle) [medium] [^24] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -115,3 +116,4 @@ Each question will have it's own branch, with the question and some examples
 [^21]: Used solution from user m-d-f (Attempt 1) [current]
 [^22]: Used solution from user zhanweiting (Attempt 1) [current]
 [^23]: Used solution from user warmr0bot (Attempt 1) [current]
+[^24]: Used solution from user mjgallag (Attempt 1) [current]
