@@ -94,6 +94,7 @@ Each question will have it's own branch, with the question and some examples
   - [Cherry Pickup II](https://github.com/theLittleBigZ/LeetCode/tree/main/Cherry%20Pickup%20II) [hard] ✔️
   - [Robot Bounded In Circle](https://github.com/theLittleBigZ/LeetCode/tree/main/Robot%20Bounded%20In%20Circle) [medium] [^24] ✔️
   - [Add Binary](https://github.com/theLittleBigZ/LeetCode/tree/main/Add%20Binary) [easy] ✔️
+  - [Insert into a Binary Search Tree](https://github.com/theLittleBigZ/LeetCode/tree/main/Insert%20into%20a%20Binary%20Search%20Tree) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
