@@ -97,6 +97,7 @@ Each question will have it's own branch, with the question and some examples
   - [Insert into a Binary Search Tree](https://github.com/theLittleBigZ/LeetCode/tree/main/Insert%20into%20a%20Binary%20Search%20Tree) [medium] ✔️
   - [Minimum Number of Arrows to Burst Balloons](https://github.com/theLittleBigZ/LeetCode/tree/main/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons) [medium] [^25] ✔️
   - [String to Integer (atoi)](https://github.com/theLittleBigZ/LeetCode/tree/main/String%20to%20Integer%20(atoi)) [medium] ✔️
+  - [Maximize Distance to Closest Person](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximize%20Distance%20to%20Closest%20Person) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
