@@ -9,11 +9,11 @@ class Solution:
         
         visited = []
         
-        while head and head not in visited:
-            visited.append(head)
+        while head:
+            if head in visited:
+                return visited[visited.index(head)]
+            else:    
+                visited.append(head)
             head = head.next
         
-        if head == None:
-            return None
-        else:
-            return visited[visited.index(head)]
+        return None
