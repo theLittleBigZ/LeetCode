@@ -8,7 +8,7 @@ There is a cycle in a linked list if there is some node in the list that can be 
 
  
 
-Example 1:
+## Example 1:
 ![image](https://user-images.githubusercontent.com/24850908/150195281-c942ac36-e1d5-4b6c-8e74-72e005527454.png)
 
 #### Input: 
