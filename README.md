@@ -100,6 +100,7 @@ Each question will have it's own branch, with the question and some examples
   - [Maximize Distance to Closest Person](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximize%20Distance%20to%20Closest%20Person) [medium] ✔️
   - [Word Pattern](https://github.com/theLittleBigZ/LeetCode/tree/main/Word%20Pattern) [easy] ✔️
   - [Linked List Cycle II](https://github.com/theLittleBigZ/LeetCode/tree/main/Linked%20List%20Cycle%20II) [medium] ✔️
+  - [Can Place Flowers](https://github.com/theLittleBigZ/LeetCode/tree/main/Can%20Place%20Flowers) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
