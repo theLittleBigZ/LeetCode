@@ -128,3 +128,4 @@ Each question will have it's own branch, with the question and some examples
 [^23]: Used solution from user warmr0bot (Attempt 1) [current]
 [^24]: Used solution from user mjgallag (Attempt 1) [current]
 [^25]: Used solution from user abstractart (Attempt 1) [current]
+[^26]: Used solution from user artod (Attempt 1) [current]
