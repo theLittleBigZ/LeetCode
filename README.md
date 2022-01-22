@@ -103,6 +103,7 @@ Each question will have it's own branch, with the question and some examples
   - [Can Place Flowers](https://github.com/theLittleBigZ/LeetCode/tree/main/Can%20Place%20Flowers) [easy] ✔️
   - [Koko Eating Bananas](https://github.com/theLittleBigZ/LeetCode/tree/main/Koko%20Eating%20Bananas) [medium] ✔️
   - [Gas Station](https://github.com/theLittleBigZ/LeetCode/tree/main/Gas%20Station) [medium] [^26] ✔️
+  - [Stone Game IV](https://github.com/theLittleBigZ/LeetCode/tree/main/Stone%20Game%20IV) [hard] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
