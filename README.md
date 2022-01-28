@@ -106,6 +106,7 @@ Each question will have it's own branch, with the question and some examples
   - [Stone Game IV](https://github.com/theLittleBigZ/LeetCode/tree/main/Stone%20Game%20IV) [hard] ✔️
   - [Valid Mountain Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Valid%20Mountain%20Array) [easy] ✔️
   - [All Elements in Two Binary Search Trees](https://github.com/theLittleBigZ/LeetCode/tree/main/All%20Elements%20in%20Two%20Binary%20Search%20Trees) [medium] ✔️
+  - [Maximum XOR of Two Numbers in an Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array) [medium] [^27] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -132,3 +133,4 @@ Each question will have it's own branch, with the question and some examples
 [^24]: Used solution from user mjgallag (Attempt 1) [current]
 [^25]: Used solution from user abstractart (Attempt 1) [current]
 [^26]: Used solution from user artod (Attempt 1) [current]
+[^27]: Used solution from user shivkj001 (Attempt 1) [current]
