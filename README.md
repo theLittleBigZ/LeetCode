@@ -108,6 +108,7 @@ Each question will have it's own branch, with the question and some examples
   - [All Elements in Two Binary Search Trees](https://github.com/theLittleBigZ/LeetCode/tree/main/All%20Elements%20in%20Two%20Binary%20Search%20Trees) [medium] ✔️
   - [Maximum XOR of Two Numbers in an Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array) [medium] [^27] ✔️
   - [Rotate Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Rotate%20Array) [medium] [^28] ✔️
+  - [Best Time to Buy and Sell Stock](https://github.com/theLittleBigZ/LeetCode/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock) [easy] [^29] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -136,3 +137,4 @@ Each question will have it's own branch, with the question and some examples
 [^26]: Used solution from user artod (Attempt 1) [current]
 [^27]: Used solution from user shivkj001 (Attempt 1) [current]
 [^28]: Used solution from user linfq (Attempt 1) [current]
+[^29]: Used solution from user gilbertomanunza (Attempt 1) [current]
