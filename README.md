@@ -109,6 +109,7 @@ Each question will have it's own branch, with the question and some examples
   - [Maximum XOR of Two Numbers in an Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array) [medium] [^27] ✔️
   - [Rotate Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Rotate%20Array) [medium] [^28] ✔️
   - [Best Time to Buy and Sell Stock](https://github.com/theLittleBigZ/LeetCode/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock) [easy] [^29] ✔️
+  - [Contiguous Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Contiguous%20Array) [Medium] [^30] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -138,3 +139,4 @@ Each question will have it's own branch, with the question and some examples
 [^27]: Used solution from user shivkj001 (Attempt 1) [current]
 [^28]: Used solution from user linfq (Attempt 1) [current]
 [^29]: Used solution from user gilbertomanunza (Attempt 1) [current]
+[^30]: Used solution from user mageshyt (Attempt 1) [current]
