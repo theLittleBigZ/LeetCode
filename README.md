@@ -110,6 +110,7 @@ Each question will have it's own branch, with the question and some examples
   - [Rotate Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Rotate%20Array) [medium] [^28] ✔️
   - [Best Time to Buy and Sell Stock](https://github.com/theLittleBigZ/LeetCode/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock) [easy] [^29] ✔️
   - [Contiguous Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Contiguous%20Array) [Medium] [^30] ✔️
+  - [Maximum Number of Words Found in Sentences](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Number%20of%20Words%20Found%20in%20Sentences) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
