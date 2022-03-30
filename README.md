@@ -113,6 +113,7 @@ Each question will have it's own branch, with the question and some examples
   - [Maximum Number of Words Found in Sentences](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Number%20of%20Words%20Found%20in%20Sentences) [easy] ✔️
   - [Subsets](https://github.com/theLittleBigZ/LeetCode/tree/main/Subsets) [medium] ✔️
   - [Single Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Single%20Number) [easy] ✔️
+  - [Find the Duplicate Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Find%20the%20Duplicate%20Number) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
