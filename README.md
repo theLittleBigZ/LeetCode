@@ -114,6 +114,7 @@ Each question will have it's own branch, with the question and some examples
   - [Subsets](https://github.com/theLittleBigZ/LeetCode/tree/main/Subsets) [medium] ✔️
   - [Single Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Single%20Number) [easy] ✔️
   - [Find the Duplicate Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Find%20the%20Duplicate%20Number) [medium] ✔️
+  - [Combination Sum III](https://github.com/theLittleBigZ/LeetCode/tree/main/Combination%20Sum%20III) [medium] ✔️ [^31]
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -144,3 +145,4 @@ Each question will have it's own branch, with the question and some examples
 [^28]: Used solution from user linfq (Attempt 1) [current]
 [^29]: Used solution from user gilbertomanunza (Attempt 1) [current]
 [^30]: Used solution from user mageshyt (Attempt 1) [current]
+[^31]: Used solution from user S_Nishanth (Attempt 1) [current]
