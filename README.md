@@ -115,7 +115,8 @@ Each question will have it's own branch, with the question and some examples
   - [Single Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Single%20Number) [easy] ✔️
   - [Find the Duplicate Number](https://github.com/theLittleBigZ/LeetCode/tree/main/Find%20the%20Duplicate%20Number) [medium] ✔️
   - [Combination Sum III](https://github.com/theLittleBigZ/LeetCode/tree/main/Combination%20Sum%20III) [medium] ✔️ [^31]
-  - [Count%20Sorted%20Vowel%20Strings](https://github.com/theLittleBigZ/LeetCode/tree/main/Count%20Sorted%20Vowel%20Strings)[medium] ✔️
+  - [Count Sorted Vowel Strings](https://github.com/theLittleBigZ/LeetCode/tree/main/Count%20Sorted%20Vowel%20Strings)[medium] ✔️
+  - [Permutations II](https://github.com/theLittleBigZ/LeetCode/tree/main/Permutations%20II) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
