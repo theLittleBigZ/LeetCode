@@ -117,6 +117,7 @@ Each question will have it's own branch, with the question and some examples
   - [Combination Sum III](https://github.com/theLittleBigZ/LeetCode/tree/main/Combination%20Sum%20III) [medium] ✔️ [^31]
   - [Count Sorted Vowel Strings](https://github.com/theLittleBigZ/LeetCode/tree/main/Count%20Sorted%20Vowel%20Strings)[medium] ✔️
   - [Permutations II](https://github.com/theLittleBigZ/LeetCode/tree/main/Permutations%20II) [medium] ✔️
+  - [Roman to Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Roman%20to%20Integer) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
