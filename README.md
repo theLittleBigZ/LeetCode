@@ -118,6 +118,7 @@ Each question will have it's own branch, with the question and some examples
   - [Count Sorted Vowel Strings](https://github.com/theLittleBigZ/LeetCode/tree/main/Count%20Sorted%20Vowel%20Strings)[medium] ✔️
   - [Permutations II](https://github.com/theLittleBigZ/LeetCode/tree/main/Permutations%20II) [medium] ✔️
   - [Roman to Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Roman%20to%20Integer) [easy] ✔️
+  - [Transpose Matrix](https://github.com/theLittleBigZ/LeetCode/tree/main/Transpose%20Matrix)[easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
