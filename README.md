@@ -119,6 +119,7 @@ Each question will have it's own branch, with the question and some examples
   - [Permutations II](https://github.com/theLittleBigZ/LeetCode/tree/main/Permutations%20II) [medium] ✔️
   - [Roman to Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Roman%20to%20Integer) [easy] ✔️
   - [Transpose Matrix](https://github.com/theLittleBigZ/LeetCode/tree/main/Transpose%20Matrix)[easy] ✔️
+  - [Intersection of Two Linked Lists](https://github.com/theLittleBigZ/LeetCode/tree/main/Intersection%20of%20Two%20Linked%20Lists)[easy] [^32] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
@@ -150,3 +151,4 @@ Each question will have it's own branch, with the question and some examples
 [^29]: Used solution from user gilbertomanunza (Attempt 1) [current]
 [^30]: Used solution from user mageshyt (Attempt 1) [current]
 [^31]: Used solution from user S_Nishanth (Attempt 1) [current]
+[^32]: Used solution from user constantine786 (Attempt 1) [current]
