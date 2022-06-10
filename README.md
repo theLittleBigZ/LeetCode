@@ -120,6 +120,7 @@ Each question will have it's own branch, with the question and some examples
   - [Roman to Integer](https://github.com/theLittleBigZ/LeetCode/tree/main/Roman%20to%20Integer) [easy] ✔️
   - [Transpose Matrix](https://github.com/theLittleBigZ/LeetCode/tree/main/Transpose%20Matrix)[easy] ✔️
   - [Intersection of Two Linked Lists](https://github.com/theLittleBigZ/LeetCode/tree/main/Intersection%20of%20Two%20Linked%20Lists)[easy] [^32] ✔️
+  - [Two Sum II - Input Array Is Sorted](https://github.com/theLittleBigZ/LeetCode/tree/main/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)[medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
