@@ -123,6 +123,7 @@ Each question will have it's own branch, with the question and some examples
   - [Two Sum II - Input Array Is Sorted](https://github.com/theLittleBigZ/LeetCode/tree/main/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted) [medium] ✔️
   - [Triangle](https://github.com/theLittleBigZ/LeetCode/tree/main/Triangle) [medium] ✔️
   - [Prefix and Suffix Search](https://github.com/theLittleBigZ/LeetCode/tree/main/Prefix%20and%20Suffix%20Search) [hard] ✔️
+  - [Furthest Building You Can Reach](https://github.com/theLittleBigZ/LeetCode/tree/main/Furthest%20Building%20You%20Can%20Reach) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
