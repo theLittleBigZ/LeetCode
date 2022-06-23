@@ -124,6 +124,7 @@ Each question will have it's own branch, with the question and some examples
   - [Triangle](https://github.com/theLittleBigZ/LeetCode/tree/main/Triangle) [medium] ✔️
   - [Prefix and Suffix Search](https://github.com/theLittleBigZ/LeetCode/tree/main/Prefix%20and%20Suffix%20Search) [hard] ✔️
   - [Furthest Building You Can Reach](https://github.com/theLittleBigZ/LeetCode/tree/main/Furthest%20Building%20You%20Can%20Reach) [medium] ✔️
+  - [Kth Largest Element in an Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Kth%20Largest%20Element%20in%20an%20Array) [medium] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
