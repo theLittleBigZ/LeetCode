@@ -126,6 +126,7 @@ Each question will have it's own branch, with the question and some examples
   - [Furthest Building You Can Reach](https://github.com/theLittleBigZ/LeetCode/tree/main/Furthest%20Building%20You%20Can%20Reach) [medium] ✔️
   - [Kth Largest Element in an Array](https://github.com/theLittleBigZ/LeetCode/tree/main/Kth%20Largest%20Element%20in%20an%20Array) [medium] ✔️
   - [Longest Common Prefix](https://github.com/theLittleBigZ/LeetCode/tree/main/Longest%20Common%20Prefix) [easy] ✔️
+  - [Maximum Units on a Truck](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Units%20on%20a%20Truck) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
