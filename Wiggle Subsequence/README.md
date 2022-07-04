@@ -15,7 +15,7 @@ Given an integer array `nums`, return *the length of the longest **wiggle subseq
 
 #### Input: 
 
-nums = [1,7,4,9,2,5]
+nums = `[1,7,4,9,2,5]`
 
 #### Output: 
 
@@ -23,7 +23,7 @@ nums = [1,7,4,9,2,5]
 
 #### Explanation: 
 
-The entire sequence is a wiggle sequence with differences (6, -3, 5, -7, 3).
+The entire sequence is a wiggle sequence with differences `(6, -3, 5, -7, 3)`.
 
 
 
@@ -31,7 +31,7 @@ The entire sequence is a wiggle sequence with differences (6, -3, 5, -7, 3).
 
 #### Input: 
 
-nums = [1,17,5,10,13,15,10,5,16,8]
+nums = `[1,17,5,10,13,15,10,5,16,8]`
 
 #### Output: 
 
@@ -47,7 +47,7 @@ One is `[1, 17, 10, 13, 10, 16, 8]` with differences `(16, -7, 3, -3, 6, -8)`.
 
 #### Input: 
 
-nums = [1,2,3,4,5,6,7,8,9]
+nums = `[1,2,3,4,5,6,7,8,9]`
 
 #### Output: 
 
