@@ -128,6 +128,7 @@ Each question will have it's own branch, with the question and some examples
   - [Longest Common Prefix](https://github.com/theLittleBigZ/LeetCode/tree/main/Longest%20Common%20Prefix) [easy] ✔️
   - [Maximum Units on a Truck](https://github.com/theLittleBigZ/LeetCode/tree/main/Maximum%20Units%20on%20a%20Truck) [easy] ✔️
   - [Wiggle Subsequence](https://github.com/theLittleBigZ/LeetCode/tree/main/Wiggle%20Subsequence)[medium] ✔️
+  - [Power of Four](https://github.com/theLittleBigZ/LeetCode/tree/main/Power%20of%20Four)[easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
