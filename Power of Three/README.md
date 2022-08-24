@@ -37,4 +37,4 @@ true
 
 
 ## Constraints:
--2<sup>31<sup> <= n <= 2<sup>31<sup> - 1
+-2<sup>31</sup> <= n <= 2<sup>31</sup> - 1
