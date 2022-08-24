@@ -130,6 +130,7 @@ Each question will have it's own branch, with the question and some examples
   - [Wiggle Subsequence](https://github.com/theLittleBigZ/LeetCode/tree/main/Wiggle%20Subsequence) [medium] ✔️
   - [Power of Four](https://github.com/theLittleBigZ/LeetCode/tree/main/Power%20of%20Four) [easy] ✔️
   - [Power of Three](https://github.com/theLittleBigZ/LeetCode/tree/main/Power%20of%20Three) [easy] ✔️
+  - [Palindrome Linked List](https://github.com/theLittleBigZ/LeetCode/tree/main/Palindrome%20Linked%20List) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
