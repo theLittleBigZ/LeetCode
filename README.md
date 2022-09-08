@@ -131,6 +131,7 @@ Each question will have it's own branch, with the question and some examples
   - [Power of Four](https://github.com/theLittleBigZ/LeetCode/tree/main/Power%20of%20Four) [easy] ✔️
   - [Power of Three](https://github.com/theLittleBigZ/LeetCode/tree/main/Power%20of%20Three) [easy] ✔️
   - [Palindrome Linked List](https://github.com/theLittleBigZ/LeetCode/tree/main/Palindrome%20Linked%20List) [easy] ✔️
+  - [Binary Tree Inorder Traversal](https://github.com/theLittleBigZ/LeetCode/tree/main/Binary%20Tree%20Inorder%20Traversal) [easy] ✔️
 
 [^2]: Used solution from Peter de Rivaz (Attempt 1) [current]
 [^3]: Used solution from user WookieWarlord (Attempt 1) [current]
